@@ -1,3 +1,14 @@
+  ![alt text](screenShots/1.png)
+  ![alt text](screenShots/2.png)
+  ![alt text](screenShots/3.png)
+  ![alt text](screenShots/4.png)
+  ![alt text](screenShots/6.png)
+
+  
+
+Obtain an API key from YouTube API.
+Create a .env file in the root directory and add your API key:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
